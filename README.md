@@ -18,5 +18,5 @@
 ### 🌐 Connect with Me
 
 - 📫 You can contact me at tigrana334@gmail.com.
-- 🐦 Follow me on Twitter: [Doesn't exist yet](https://twitter.com)
+- 🐦 Follow me on [Twitter](https://github.com/TigranAgekyan)
 - 💼 Check out my work and projects on GitHub.
