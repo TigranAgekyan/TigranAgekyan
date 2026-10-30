@@ -21,7 +21,6 @@
 |---|---|---|
 | [**SleepObserver**](https://github.com/TigranAgekyan/SleepObserver-Final) | Full-stack sleep-tracking app that turns wearable sensor data (heart rate, movement, temperature, sound) into sleep stages, a quality score and an interactive dashboard. [Live demo](https://sleepobserver.onrender.com) | React, TypeScript, Express, Firebase, Recharts, React Three Fiber |
 | [**Simmer**](https://github.com/TigranAgekyan/recipe-book) | Personal recipe book where AI turns YouTube videos and articles into ready-to-cook recipes. Self-hosted on my home server. | React, TypeScript, Vite, Supabase, Tailwind |
-| [**Aether Weather**](https://github.com/TigranAgekyan/aether-weather-app) | Weather app with an interactive map and animated, design-led UI. | React, TypeScript, MapLibre GL, Framer Motion, Tailwind |
 | [**Portfolio**](https://github.com/TigranAgekyan/portfolio-web) | My personal site, with a serverless contact form. [tigranagekyan.com](https://tigranagekyan.com) | React, TypeScript, Vite, Tailwind 4, Motion, shadcn/ui, Cloudflare Pages |
 | [**R3F Car Show**](https://github.com/TigranAgekyan/R3F-CarShow) | 3D car showcase rendered in the browser with post-processing effects. | React Three Fiber, Three.js, TypeScript |
 
